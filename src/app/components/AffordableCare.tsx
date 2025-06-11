@@ -57,7 +57,7 @@ const AffordableCare: FC = () => {
         <div className="grid grid-cols-2 gap-16 -mt-28  ">
           <div className="col-span-2 rounded-xl overflow-hidden shadow-md ">
             <Image
-              src="/i.webp"
+              src="./i.webp"
                width={300}
             height={150}
               alt="Family walking"
@@ -65,14 +65,14 @@ const AffordableCare: FC = () => {
             />
           </div>
           <Image
-            src="/chronic.jpg"
+            src="./chronic.jpg"
              width={300}
             height={150}
             alt="Family hugging"
             className="rounded-xl w-full object-cover h-[150px] mt-28"
           />
           <Image
-            src="/care2.jpg"
+            src="./care2.jpg"
             alt="Elderly care"
             className="rounded-xl w-full object-cover "
             width={300}

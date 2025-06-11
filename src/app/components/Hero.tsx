@@ -7,7 +7,7 @@ const Hero = () => {
   return (
     <div className="relative w-full h-screen overflow-hidden rounded-lg">
   <Image
-    src="/i.webp" // Replace with your image
+    src="./i.webp" // Replace with your image
     alt="Clinica San Miguel"
     fill
     priority

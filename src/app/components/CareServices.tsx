@@ -12,25 +12,25 @@ const services: ServiceCard[] = [
     title: "Primary Care",
     description:
       "Discover our most popular treatments, starting at just $19, designed to keep you and your family healthy.",
-    image: "/care2.jpg",
+    image: "./care2.jpg",
   },
   {
     title: "Children’s Healthcare",
     description:
       "Gentle, kid-friendly check-ups and vaccinations for your child’s bright, healthy future.",
-    image: "/healthcare.jpg",
+    image: "./healthcare.jpg",
   },
   {
     title: "Diabetes Care",
     description:
       "Personalized plans to manage diabetes and live a healthier, more active life.",
-    image: "/diabetes.jpg",
+    image: "./diabetes.jpg",
   },
   {
     title: "Pregnancy Services",
     description:
       "Compassionate prenatal care and guidance for a healthy, joyful pregnancy journey.",
-    image: "/pregnancy.jpg",
+    image: "./pregnancy.jpg",
   },
   {
     title: "Blood Tests",
@@ -38,13 +38,13 @@ const services: ServiceCard[] = [
 
     description:
       "Affordable screenings to detect issues early and keep you informed.",
-    image: "/Blood.jpg",
+    image: "./Blood.jpg",
   },
   {
     title: "Hypertension",
     description:
       "Expert care to manage blood pressure and protect your heart with confidence.",
-    image: "/Hypertension.png",
+    image: "./Hypertension.png",
   },
 ];
 

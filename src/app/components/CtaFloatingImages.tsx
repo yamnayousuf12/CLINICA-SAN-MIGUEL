@@ -2,13 +2,13 @@ import { FaStar } from 'react-icons/fa';
 import Image from 'next/image';
 
 const floatingImages = [
-  '/Mission.jpg',
-  '/i.webp',
-  '/ima.webp',
-  '/care2.jpg',
-  '/Hypertension.png',
-  '/healthcare.jpg',
-  '/diabetes.jpg',
+  './Mission.jpg',
+  './i.webp',
+  './ima.webp',
+  './care2.jpg',
+  './Hypertension.png',
+  './healthcare.jpg',
+  './diabetes.jpg',
 ];
 
 const CtaFloatingImages = () => {

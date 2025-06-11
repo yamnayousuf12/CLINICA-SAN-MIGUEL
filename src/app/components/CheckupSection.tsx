@@ -15,7 +15,7 @@ const CheckupSection = () => {
           </p>
           <div className="rounded-xl overflow-hidden shadow-md max-w-md">
             <Image
-              src="/chronic.jpg" // Replace with your image
+              src="./chronic.jpg" // Replace with your image
               alt="Elderly care"
               width={600}
               height={400}
@@ -28,7 +28,7 @@ const CheckupSection = () => {
         <div className="space-y-4">
           <div className="rounded-xl overflow-hidden shadow-md max-w-md ml-auto">
             <Image
-              src="/care2.jpg" // Replace with your image
+              src="./care2.jpg" // Replace with your image
               alt="Doctor check-up"
               width={600}
               height={400}

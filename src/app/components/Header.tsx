@@ -13,7 +13,7 @@ const Header = () => {
       <div className="max-w-7xl mx-auto flex items-center justify-between px-10 py-4">
         {/* Logo Section */}
         <div className="flex items-center space-x-2">
-          <Image src="/logo.png" alt="Logo" width={50} height={100} />
+          <Image src="./logo.png" alt="Logo" width={50} height={100} />
           <div className="text-sm font-bold leading-tight text-black">
             CLINICA SAN MIGUEL<br />
             <span className="text-xs font-normal">MEDICINA FAMILIAR</span>

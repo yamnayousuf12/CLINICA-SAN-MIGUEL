@@ -46,7 +46,7 @@ const MissionSection = () => {
       {/* Floating image on bottom-left */}
       <div className="absolute bottom-0 left-10 translate-y-1/2 md:translate-y-1/4 rounded-lg overflow-hidden w-[380px] md:w-[550px] shadow-lg">
         <Image
-          src="/Mission.jpg" // Replace with your image path in /public
+          src="./Mission.jpg" // Replace with your image path in /public
           alt="Mission"
           width={450}
           height={350}
